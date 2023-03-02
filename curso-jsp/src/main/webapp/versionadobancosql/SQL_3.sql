@@ -1,0 +1,1 @@
+ALTER TABLE public.model_login add column benfica character varying(100);
